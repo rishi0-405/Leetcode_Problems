@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0231-power-of-two) |
+| [1009-complement-of-base-10-integer](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
 | ------- |
