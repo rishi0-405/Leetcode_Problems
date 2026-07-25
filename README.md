@@ -8,6 +8,7 @@
 | [0231-power-of-two](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/rishi0-405/Leetcode_Problems/tree/master/2235-add-two-integers) |
+| [3536-maximum-product-of-two-digits](https://github.com/rishi0-405/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/rishi0-405/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
