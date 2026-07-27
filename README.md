@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
+## Hash Table
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
