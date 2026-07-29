@@ -24,6 +24,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishi0-405/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -32,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [1207-unique-number-of-occurrences](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
