@@ -33,11 +33,13 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0414-third-maximum-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [1207-unique-number-of-occurrences](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0202-happy-number) |
 | [1207-unique-number-of-occurrences](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
