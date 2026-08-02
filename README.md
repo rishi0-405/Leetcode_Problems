@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0189-rotate-array) |
