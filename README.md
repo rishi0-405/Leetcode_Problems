@@ -41,6 +41,7 @@
 | [0189-rotate-array](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [1207-unique-number-of-occurrences](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1470-shuffle-the-array](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
