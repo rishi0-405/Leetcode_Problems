@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/rishi0-405/Leetcode_Problems/tree/master/2235-add-two-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishi0-405/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
 | ------- |
