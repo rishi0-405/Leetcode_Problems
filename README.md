@@ -70,4 +70,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
