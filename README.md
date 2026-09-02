@@ -17,6 +17,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/rishi0-405/Leetcode_Problems/tree/master/2235-add-two-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishi0-405/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rishi0-405/Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0414-third-maximum-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [1207-unique-number-of-occurrences](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1470-shuffle-the-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rishi0-405/Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
