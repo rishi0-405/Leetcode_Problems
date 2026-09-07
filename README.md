@@ -87,6 +87,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1693-daily-leads-and-partners) |
 ## Newton's Method
 |  |
 | ------- |
