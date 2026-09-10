@@ -46,6 +46,7 @@
 | [0066-plus-one](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0414-third-maximum-number) |
+| [0724-find-pivot-index](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1470-shuffle-the-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishi0-405/Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
