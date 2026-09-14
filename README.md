@@ -14,6 +14,7 @@
 | [0231-power-of-two](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0326-power-of-three) |
+| [0836-rectangle-overlap](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/rishi0-405/Leetcode_Problems/tree/master/2235-add-two-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishi0-405/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0724-find-pivot-index) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
