@@ -34,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishi0-405/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
@@ -45,6 +46,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0414-third-maximum-number) |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0202-happy-number) |
 | [1207-unique-number-of-occurrences](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
@@ -106,4 +109,16 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
