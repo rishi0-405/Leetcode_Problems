@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0189-rotate-array) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0202-happy-number) |
 | [1207-unique-number-of-occurrences](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
