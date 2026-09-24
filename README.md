@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0069-sqrtx) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0202-happy-number) |
@@ -72,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0058-length-of-last-word) |
 ## Stack
