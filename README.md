@@ -56,6 +56,7 @@
 | [0724-find-pivot-index](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1470-shuffle-the-array) |
+| [1920-build-array-from-permutation](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishi0-405/Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -129,4 +130,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
