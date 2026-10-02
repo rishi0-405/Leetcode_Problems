@@ -35,6 +35,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishi0-405/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -48,6 +49,7 @@
 | [0001-two-sum](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0283-move-zeroes) |
@@ -70,6 +72,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0283-move-zeroes) |
@@ -135,4 +138,12 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
