@@ -76,6 +76,7 @@
 | [0189-rotate-array](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -148,4 +149,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
