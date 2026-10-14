@@ -107,6 +107,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0607-sales-person) |
+| [0619-biggest-single-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0619-biggest-single-number) |
 | [1068-product-sales-analysis-i](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1148-article-views-i) |
