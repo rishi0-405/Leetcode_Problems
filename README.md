@@ -38,6 +38,7 @@
 | [0075-sort-colors](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0414-third-maximum-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishi0-405/Leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@
 | [0414-third-maximum-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0724-find-pivot-index) |
+| [0922-sort-array-by-parity-ii](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
@@ -79,6 +81,7 @@
 | [0202-happy-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 ## String
 |  |
 | ------- |
