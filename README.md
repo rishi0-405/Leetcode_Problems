@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0704-binary-search) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0283-move-zeroes](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0922-sort-array-by-parity-ii](https://github.com/rishi0-405/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/rishi0-405/Leetcode_Problems/tree/master/1207-unique-number-of-occurrences) |
